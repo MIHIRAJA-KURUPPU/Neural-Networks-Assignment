@@ -23,7 +23,7 @@ This repository contains the code and results for implementing various neural ne
 
 - `dense_network.py`: Implements the single dense layer network with a middle layer and cross-entropy loss for CIFAR-10.
 - `lenet5_mnist.py`: Contains the code for the LeNet-5 network architecture on MNIST.
-- `transfer_learning_resnet18.py`: Fine-tuning and feature extraction methods with ResNet18 for the Hymenoptera dataset.
+- `transfer_learning.py`: Fine-tuning and feature extraction methods with ResNet18 for the Hymenoptera dataset.
 
 ## Getting Started
 
